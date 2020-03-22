@@ -9,9 +9,9 @@ INSTRUCCIONES PARA CONECTAR EL PIANO Y QUE SUENE:
 - En la tabla de colores, poner como INPUT los pines del 30 al 42, pinchando en el cuadrado de la tabla para que se ponga en negro
 - Si los pines son los que ponemos a continuación, no hay que hacer nada mas. Sino, habría que editar el programa para re-routear las señales a la nota correspondiente. Los pines son:
 
-DO -> 37
-RE -> 36
-MI -> 35
+DO -> 37   
+RE -> 36   
+MI -> 35   
 FA-> 34   
 SOL -> 33  
 LA -> 32
