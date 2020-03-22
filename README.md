@@ -8,6 +8,7 @@ INSTRUCCIONES PARA CONECTAR EL PIANO Y QUE SUENE:
 - Cuando se abre el programa en PureData, arriba donde pone "serial port #" poner el COM que aparece en Arduino
 - En la tabla de colores, poner como INPUT los pines del 30 al 42, pinchando en el cuadrado de la tabla para que se ponga en negro
 - Si los pines son los que ponemos a continuación, no hay que hacer nada mas. Sino, habría que editar el programa para re-routear las señales a la nota correspondiente. Los pines son:
+
 DO -> 37
 RE -> 36
 MI -> 35
